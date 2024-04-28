@@ -1,3 +1,7 @@
+body {
+    background-color: #edede9;
+}
+
 .navbar {
     background-color: #caf0f8;
 }
@@ -10,6 +14,15 @@
 .logo:hover {
     transform: scale(1.1);
 }
+
+.nav-link {
+    color: #134074;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
 
 .form-label {
     padding-top: 20px;
