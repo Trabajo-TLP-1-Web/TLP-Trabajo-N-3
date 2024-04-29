@@ -5,6 +5,10 @@ body{
 footer{
     background-color: aquamarine;
 }
-ul{
-    display: flex;
+li:hover{
+    color: aliceblue;
+}
+img{
+    border-radius: 10px;
+    border: solid 3px rgb(152, 209, 230);
 }
