@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 footer{
@@ -17,4 +17,7 @@ img{
 }
 .images{
     margin-bottom: 12px;
+}
+.carrusel{
+    border-radius: 50px;
 }
