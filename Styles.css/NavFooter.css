@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #00b4d8;
+}
+
+.logo {
+    cursor: pointer;
+    transition: all(0.3s);
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+.nav-link {
+    color: #134074;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+.piepagina {
+    margin-top: 50px;
+}
+
+.iconos {
+    margin-top: 20px;
+}
+
+.icono-1 {
+    transition: all(0.2s);
+    padding: 0 15px 0 0;
+}
+.icono-1:hover {
+    transform: scale(0.9);
+}
+
+.icono-2 {
+    transition: all(0.2s);
+    padding: 0 15px 0 0;
+}
+.icono-2:hover {
+    transform: scale(0.9);
+}
+
+.icono-3 {
+    transition: all(0.2s);
+    padding: 0 0 0 15px;
+}
+.icono-3:hover {
+    transform: scale(0.9);
+}
